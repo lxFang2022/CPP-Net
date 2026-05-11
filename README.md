@@ -31,6 +31,10 @@ python code/ACDC_BCP_train.py --root_path ./data_split/ACDC --model unet --label
 python code/test_ACDC.py --root_path ./data_split/ACDC --model unet --gpu 0
 ```
 
+## Acknowledgement
+
+This code is built upon [BCP](https://github.com/DeepMed-Lab-ECNU/BCP). We thank the authors for making their code publicly available.
+
 ## Citation
 
 ```bibtex
